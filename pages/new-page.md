@@ -12,9 +12,5 @@ change on from-main
 
 change on working going published!
 
-another change
 
-
-sdfasdfsdfasdfasdfasf
-
-test
+CONFLICTS RESOLVED
