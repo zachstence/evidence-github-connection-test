@@ -8,7 +8,8 @@ type: page
 
 This is a new page.
 
+change on from-main
 
-change on working
+change on working going published!
 
-another one
+another change
