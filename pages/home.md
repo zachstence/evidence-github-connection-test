@@ -5,5 +5,3 @@ type: page
 ---
 
 main
-
-change on main
