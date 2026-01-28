@@ -13,3 +13,5 @@ making a change on working to publish with conflicts!
 more changes here
 
 CONFLICTS RESOLVED
+
+main change
