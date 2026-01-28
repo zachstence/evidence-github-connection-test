@@ -12,4 +12,4 @@ making a change on working to publish with conflicts!
 
 more changes here
 
-asdfasdfasdfasdfasdasdf
+CONFLICTS RESOLVED
