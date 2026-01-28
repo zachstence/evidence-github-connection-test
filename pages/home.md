@@ -8,8 +8,4 @@ page contents
 
 im on working
 
-more changes on main
-
-making a change on main!
-
-commit
+making a change on working to publish with conflicts!
