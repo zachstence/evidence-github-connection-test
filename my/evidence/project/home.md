@@ -6,7 +6,4 @@ type: page
 
 chagne on new one
 
-more changes!
-
-
-asdfasdfasfsdf
+RESOLVED
