@@ -6,4 +6,6 @@ type: page
 
 chagne on new one
 
-more changes!fffffasdfsdfsfasdffsdfsfasdfasdfasdgsdfgsdfgsdfgsfadfsdfsdf
+more changes!fffffasdfsdfsfasdffsdfsfasdfasdfasdgsdfgsdfgsdfgsfadfsdfsdfasfasfdasdfas
+
+bingo
